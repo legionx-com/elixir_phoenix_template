@@ -1,4 +1,4 @@
-# ElixirPhoenixTemplate
+# HelloWorld
 
 To start your Phoenix server:
 
@@ -19,6 +19,10 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
 
+## Rename Project
+```sh
+./rename.sh <new_name>
+```
 
-## Get Started With LegionX
-http://legionx.com/https://github.com/legionx-com/elixir_phoenix_template
+## Join LegionX To Get Started
+http://legionx.com/https://github.com/legionx-com/hello_world
