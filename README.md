@@ -24,5 +24,5 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 ./rename.sh <new_name>
 ```
 
-## Join LegionX To Get Started
+## Open In LegionX
 http://legionx.com/https://github.com/legionx-com/hello_world
