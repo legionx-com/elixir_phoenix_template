@@ -26,3 +26,4 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 
 ## Open In LegionX
 https://legionx.com/https://github.com/legionx-com/elixir_phoenix_template
+![Screenshot](screenshot.png)
